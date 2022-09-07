@@ -1,1 +1,1 @@
- script that creates file name 
+read me 1st
