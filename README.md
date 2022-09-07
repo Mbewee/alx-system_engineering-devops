@@ -1,1 +1,1 @@
-Write a script that reverse its input
+Create a script that creates an alias
