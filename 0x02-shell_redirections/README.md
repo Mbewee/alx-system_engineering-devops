@@ -1,1 +1,1 @@
-Replace all characters A and c from input to Z and e respectively
+Write a script that displays a confused smiley "(Ôo)
