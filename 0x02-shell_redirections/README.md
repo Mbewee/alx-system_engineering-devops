@@ -1,1 +1,1 @@
-Write a script that displays a confused smiley "(Ôo)
+Create a script that removes all letters c and C from input
